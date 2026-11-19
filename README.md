@@ -14,7 +14,7 @@ Analisis Failed Installation dan jeda kirim–rakit dari data order Dekoruma (Ja
 
 ## Dashboard
 https://datastudio.google.com/reporting/7930ae7c-dbb6-46c5-820d-5cf2e9ccfd9d
-![Preview](dashboard/dashboard_preview.png)
+![Preview](dashboard/dashboard.png)
 
 
 ## Data

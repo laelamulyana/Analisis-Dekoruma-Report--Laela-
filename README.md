@@ -13,7 +13,7 @@ Analisis Failed Installation dan jeda kirim–rakit dari data order Dekoruma (Ja
 - dashboard/: tangkapan layar dan tabel agregat dashboard
 
 ## Dashboard
-[Buka di Looker Studio]([https://datastudio.google.com/reporting/7930ae7c-dbb6-46c5-820d-5cf2e9ccfd9d])
+https://datastudio.google.com/reporting/7930ae7c-dbb6-46c5-820d-5cf2e9ccfd9d
 
 
 
